@@ -95,5 +95,3 @@ Used **GridSearchCV** to optimize the Random Forest model parameters.
   'min_samples_split': 5,
   'n_estimators': 200
 }
-
-If you found this project useful, please ⭐ star this repository and share it with others!
